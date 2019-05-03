@@ -1,5 +1,5 @@
-Days,Jan.,Feb.,March,April
-Minimum,483.75,487.07,485.86,480.48
-Maximum,486.98,489.85,490.68,487.42
-Average,485.33,488.36,487.57,484.28
-Monthly fluctuation,,3.03,-0.79,-3.29
+Months,Minimum,Maximum,Average,Monthly fluctuation
+Jan.,483.75,486.98,485.33,
+Feb.,487.07,489.85,488.36,3.03
+March,485.86,490.68,487.57,-0.79
+April,480.48,487.42,484.28,-3.29
